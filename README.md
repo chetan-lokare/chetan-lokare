@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chetan-lokare
+- 👀 I’m interested in JavaScript, HTML, CSS, and Python 🐍
+- 🌱 I’m currently learning React
+- ⚡ Fun fact: '2' + '2' = '22'
